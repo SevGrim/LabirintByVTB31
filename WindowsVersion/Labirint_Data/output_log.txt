@@ -1,0 +1,35 @@
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1230]
+    Renderer: AMD Radeon HD 7640G N HD 7640G + HD 7670M Dual Graphics
+    Vendor:   ATI
+    VRAM:     2510 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ИПО\LAbirint\Labirint_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ИПО\LAbirint\Labirint_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ИПО\LAbirint\Labirint_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\ИПО\LAbirint\Labirint_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.119 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 15.378443 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 8.111196 ms (FindLiveObjects: 0.030777 ms CreateObjectMapping: 0.021058 ms MarkObjects: 6.543708 ms  DeleteObjects: 0.017818 ms)
+
+UnloadTime: 1.609064 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.808307 ms (FindLiveObjects: 0.026997 ms CreateObjectMapping: 0.024297 ms MarkObjects: 0.155506 ms  DeleteObjects: 0.335311 ms)
+
+UnloadTime: 1.344486 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 1.539950 ms (FindLiveObjects: 0.020518 ms CreateObjectMapping: 0.023757 ms MarkObjects: 0.140928 ms  DeleteObjects: 0.067494 ms)
+
